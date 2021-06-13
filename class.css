@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(70, 70, 209);
+    font-family: Arial, Helvetica, sans-serif ; 
+    color: white;
+    
+}
+
+.amazing {
+    font-size: 40px;
+    color:black;
+}
+
+input[type="text"] {
+    width: 100%;
+}
+
+input[type="password"] {
+    width: 50%;
+    border: red solid 10px;
+}
+
+input[type="email"] {
+    width: 25%;
+    border: 10px dotted orange;
+}
+/* .sweet {
+    font-size: 30px;
+    color:red;
+}
+
+p {
+    font-size: 30px;
+}
+
+#animesh {
+    font-size: 15px;
+    color: orange;
+    font-weight: bolder;
+} */

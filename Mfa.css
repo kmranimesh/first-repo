@@ -1,0 +1,41 @@
+ /*
+                REQUIREMENT
+             mobile --> green
+             tablet --> blue
+             laptop --> red 
+             PC --> orange  
+             
+             Mobile-First Approach
+
+             */
+
+             /*Minimum Width:
+             Mobile -> 0 to 767px
+             Tablet -> 768px
+             Laptop -> 1020px
+             PC Screen -> 1400px
+            */
+
+body{
+    background-color: green;
+}
+
+@media(min-width: 768px) {
+
+    body {
+        background-color: blue;
+    }
+
+}
+
+@media(min-width: 1020px) {
+    body{
+        background-color: red;
+    }
+}
+
+@media(min-width: 1400px) {
+    body{
+        background-color: orange;
+    }
+}

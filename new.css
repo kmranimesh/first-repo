@@ -1,0 +1,103 @@
+/* body {
+    background-color: rgb(70, 70, 209);
+    font-family: Arial, Helvetica, sans-serif ; 
+    color: white;
+}
+
+h1 {
+    font-size: 100px;
+    font-family: monospace;
+}
+
+h2 {
+    font-size: 70px;
+    font-family: sans-serif;
+}
+
+input {
+    width: 100%;
+}
+
+p {
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+}
+
+button {
+    border:2px dotted white;
+    background-color: coral;
+    color: white;
+    border-radius: 50px;
+} */
+
+/* <!--DAY2--> */
+/* body{
+    background-color: black;
+} */
+
+/* .parent{
+    position: relative;
+    background-color: darkblue;
+    width: 300px;
+    height: 300px;
+    
+}
+
+.child{
+    position: absolute;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+} */
+   /* *{
+       margin: 0;
+   }
+    .parent{
+        display: inline-block;
+        background-color: black;
+        width: 300px;
+        height: 300px;
+        padding: 30px;
+        margin: 50px;
+    }
+
+    .content{        
+        background-color: burlywood;
+        width: 300px;
+        height: 300px;        
+    } */
+    
+    /* body{
+        padding: 50px ;
+    }
+
+    button{
+        background-color: green;
+        border: 2px solid green;
+        color: white;
+        font-weight: bolder;
+        font-family: cursive;
+        border-radius: 6px;
+        padding: 10px;
+        cursor: pointer;
+    }
+
+    button:hover{
+        background-color: red;
+    }
+
+        button:focus{
+            background-color: black;
+        }
+   
+            button:disabled{
+                cursor: not-allowed;
+                opacity: 0.3;
+            } */
+
+            
+
+   
+
